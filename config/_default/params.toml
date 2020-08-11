@@ -8,14 +8,14 @@ themeOptions = ["light", "dark"]
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
 enableTocSwitch = true
-enableLandingBackground = false
+enableLandingBackground = true
 enableSearch = true
 enableSearchHighlight = true
 enableLangChange = true
 enableDarkMode = true
 enableBreadcrumb = true
 enableBlogBreadcrumb = true
-enableEditBtn = false
+enableEditBtn = true
 enableToc = true
 enableMenu = true
 enableNavbar = true
@@ -27,7 +27,7 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zdoc"
+github = "https://github.com/PhysikaTeam/PhysIKA"
 
 # comment
 enableComment = true
