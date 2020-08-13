@@ -1,7 +1,7 @@
 logo = true
-logoText = "ZDoc"
+logoText = "PhysIKA"
 logoType = "short" # long, short
-description = "The ZDoc theme for Hugo example site."
+description = "An introduce of PhysIKA."
 
 themeOptions = ["light", "dark"]
 
@@ -25,7 +25,7 @@ showPoweredBy = true
 tocLevels = ["h2", "h3", "h4"]
 paginateWindow = 1
 taxoPaginate = 13
-taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+taxoGroupByDate = "2006-01" # "2006-01": group by month, "2006": group by year
 
 github = "https://github.com/PhysikaTeam/PhysIKA"
 

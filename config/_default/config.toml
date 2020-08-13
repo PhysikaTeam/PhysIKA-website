@@ -3,8 +3,8 @@ title = "Hugo Zdoc Theme"
 theme = "zdoc"
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-hasCJKLanguage = false
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = true
 
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
@@ -13,8 +13,6 @@ paginate = 13
 rssLimit = 100
 
 googleAnalytics = ""
-
-disableKinds = ["taxonomyTerm"]
 
 [markup]
   [markup.goldmark]
@@ -26,21 +24,14 @@ disableKinds = ["taxonomyTerm"]
     codeFences = true
     lineNos = true
     lineNumbersInTable = true
-    noClasses = false
+    noClasses = true
   [markup.tableOfContents]
     endLevel = 4
-    ordered = false
+    ordered = true
     startLevel = 2
 
 [outputs]
-  home = ["HTML", "RSS", "SearchIndex"]
-
-[outputFormats]
-  [outputFormats.SearchIndex]
-    mediaType = "application/json"
-    baseName = "index"
-    isPlainText = true
-    notAlternative = true
+  home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
   tag = "tags"
