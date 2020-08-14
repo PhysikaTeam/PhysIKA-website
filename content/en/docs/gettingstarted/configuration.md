@@ -6,4 +6,7 @@ draft: false
 weight: -3
 ---
 
-*Markdown here*
+
+CUDA 9.0 +
+
+CMake 3.12 +

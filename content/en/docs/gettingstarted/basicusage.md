@@ -6,4 +6,4 @@ draft: false
 weight: -4
 ---
 
-*Markdown here*
+PhysIKA is an open source node-based architecture targeted at real-time simulation of versatile physical materials. Currently, it supports simulating physical phenomena ranging from fluids, elastic objects and fracture, etc. It is higly modualized and can also help the research community develop more novel algorithms.
