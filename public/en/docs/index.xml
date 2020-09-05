@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on ZDoc</title>
+    <link>/en/docs/</link>
+    <description>Recent content in Docs on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="/en/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Depth 1</title>
+        <link>/en/docs/depth1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>/en/docs/depth1/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Getting Started</title>
+        <link>/en/docs/gettingstarted/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>/en/docs/gettingstarted/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Content Management</title>
+        <link>/en/docs/contentmanagement/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>/en/docs/contentmanagement/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Related content</title>
+        <link>/en/docs/relatedcontent/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
+        
+        <guid>/en/docs/relatedcontent/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Resources</title>
+        <link>/en/docs/pageresources/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
+        
+        <guid>/en/docs/pageresources/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Bundles</title>
+        <link>/en/docs/pagebundles/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
+        
+        <guid>/en/docs/pagebundles/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Content Formats</title>
+        <link>/en/docs/contentfortmats/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
+        
+        <guid>/en/docs/contentfortmats/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Image Processing</title>
+        <link>/en/docs/imageprocessing/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
+        
+        <guid>/en/docs/imageprocessing/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+    
+  </channel>
+</rss>
