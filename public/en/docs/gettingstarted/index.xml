@@ -1,59 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Getting Started on ZDoc</title>
-    <link>/en/docs/gettingstarted/</link>
-    <description>Recent content in Getting Started on ZDoc</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
-    
-        <atom:link href="/en/docs/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-      
-      <item>
-        <title>Basic Usage</title>
-        <link>/en/docs/gettingstarted/basicusage/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
-        
-        <guid>/en/docs/gettingstarted/basicusage/</guid>
-        <description>PhysIKA is an open source node-based architecture targeted at real-time simulation of versatile physical materials. Currently, it supports simulating physical phenomena ranging from fluids, elastic objects and fracture, etc. It is higly modualized and can also help the research community develop more novel algorithms.</description>
-      </item>
-      
-      <item>
-        <title>Configuration</title>
-        <link>/en/docs/gettingstarted/configuration/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        
-        <guid>/en/docs/gettingstarted/configuration/</guid>
-        <description>CUDA 9.0 +
-CMake 3.12 +</description>
-      </item>
-      
-      <item>
-        <title>Installation</title>
-        <link>/en/docs/gettingstarted/installation/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        
-        <guid>/en/docs/gettingstarted/installation/</guid>
-        <description>Download the source code;
-Run cmake and set up both &amp;ldquo;Where is the source code&amp;rdquo; and &amp;ldquo;Where to build the binaries&amp;rdquo;;
-Click Configure;
-If succeeded, then click Generate.</description>
-      </item>
-      
-      <item>
-        <title>Quick Start</title>
-        <link>/en/docs/gettingstarted/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
-        
-        <guid>/en/docs/gettingstarted/quickstart/</guid>
-        <description>#include &amp;lt;iostream&amp;gt;#include &amp;quot;GUI/GlutGUI/GLApp.h&amp;quot;#include &amp;quot;Framework/Framework/SceneGraph.h&amp;quot;#include &amp;quot;Dynamics/ParticleSystem/ParticleElasticBody.h&amp;quot;#include &amp;quot;Dynamics/ParticleSystem/StaticBoundary.h&amp;quot;using namespace Physika;int main(){SceneGraph&amp;amp; scene = SceneGraph::getInstance();std::shared_ptr&amp;lt;StaticBoundary&amp;lt;DataType3f&amp;gt;&amp;gt; root = scene.createNewScene&amp;lt;StaticBoundary&amp;lt;DataType3f&amp;gt;&amp;gt;();root-&amp;gt;loadCube(Vector3f(0), Vector3f(1), true);std::shared_ptr&amp;lt;ParticleElasticBody&amp;lt;DataType3f&amp;gt;&amp;gt; bunny = std::make_shared&amp;lt;ParticleElasticBody&amp;lt;DataType3f&amp;gt;&amp;gt;();root-&amp;gt;addParticleSystem(bunny);bunny-&amp;gt;getRenderModule()-&amp;gt;setColor(Vector3f(0, 1, 1));bunny-&amp;gt;setMass(1.0);bunny-&amp;gt;loadParticles(&amp;quot;../Media/bunny/bunny_points.obj&amp;quot;);bunny-&amp;gt;loadSurface(&amp;quot;../Media/bunny/bunny_mesh.obj&amp;quot;);bunny-&amp;gt;translate(Vector3f(0.5, 0.2, 0.5));bunny-&amp;gt;setVisible(false);GLApp window;window.createWindow(1024, 768);window.mainLoop();return 0;}The following image shows an screenshot of the running example</description>
-      </item>
-      
-    
-  </channel>
-</rss>
