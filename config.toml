@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "PhysIKA"
 
 enableRobotsTXT = true
 
@@ -53,16 +53,16 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "PhysIKA"
+description = "A PhysIKA documentation site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
+[languages.zh]
+title = "PhysIKA"
+description = "PhysIKA文档系统"
+languageName ="简体中文"
+contentDir = "content/zh"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
