@@ -54,8 +54,9 @@ id = "UA-00000000-0"
 [languages]
 [languages.en]
 title = "PhysIKA"
-description = "A PhysIKA documentation site"
+description = "The PhysIKA documentation site"
 languageName ="English"
+contentDir = "content/en"
 # Weight used for sorting.
 weight = 1
 [languages.zh]
@@ -79,7 +80,7 @@ time_format_blog = "02.01.2006"
 # Everything below this are Site Params
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "The PhysIKA Team Authors"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
