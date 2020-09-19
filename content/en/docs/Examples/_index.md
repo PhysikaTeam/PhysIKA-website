@@ -5,7 +5,7 @@ linkTitle: "Examples"
 weight: 6
 date: 2017-01-05
 description: >
-  What can your user do with your project?
+  A set of examples guiding users on how to set up different cases.
 ---
 
 {{% pageinfo %}}

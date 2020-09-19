@@ -3,7 +3,7 @@ title: "Getting Started"
 linkTitle: "Getting Started"
 weight: 2
 description: >
-  What does your user need to know to try your project?
+  Tutorials on how to set up PhysIKA and run examples on both Windows and Linux.
 ---
 
 {{% pageinfo %}}

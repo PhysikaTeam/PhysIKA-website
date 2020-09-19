@@ -1,7 +1,7 @@
 
 ---
-title: "开发文档"
-linkTitle: "开发文档"
+title: "帮助文档"
+linkTitle: "帮助文档"
 weight: 20
 menu:
   main:

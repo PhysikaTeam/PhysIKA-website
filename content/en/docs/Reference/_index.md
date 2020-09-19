@@ -3,7 +3,7 @@ title: "Reference"
 linkTitle: "Reference"
 weight: 7
 description: >
-  Low level reference docs for your project.
+  External resources related to physical-based simulations.
 ---
 
 {{% pageinfo %}}
