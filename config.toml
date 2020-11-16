@@ -1,8 +1,4 @@
-relativeURLs = true
-uglyURLs = true
-baseURL = "https://PhysikaTeam.github.io"
-
-
+baseURL = "/"
 title = "PhysIKA"
 
 enableRobotsTXT = true
