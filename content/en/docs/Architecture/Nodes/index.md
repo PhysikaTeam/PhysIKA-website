@@ -13,7 +13,7 @@ description: >
 ---
 
 ## Structure of a node
-The follow code demonstrates a typical implementation of a node that handles the one-way coupling between particles and static triangular boundaries.
+The follow code demonstrates a typical implementation of a node that handles the one-way coupling between particles and static trianglar boundaries.
 
 ```go
 template<typename TDataType>
@@ -69,10 +69,6 @@ private:
     */
 };
 ```
-In the Qt-based GUI, the above node appears in the following form
-
-![ModuleView](node.jpg)
-
 To be recognized by the reflecting system in PhysIKA, each class should be started with the following macro definition
 ```go
   DECLARE_CLASS(ClassName)
@@ -99,7 +95,6 @@ Then, an instance of StaticMeshBoundary can correctly created by passing the cla
 ```
 
 In addition, an instance of the reflected class can also be create from the PhysIKA Studio.
-
 ![Example](createInstanceFromQt.jpg)
 
 ### Node Ports

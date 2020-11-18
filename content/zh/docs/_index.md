@@ -8,7 +8,7 @@ menu:
     weight: 20
 ---
 
-Dette er landingssiden til en seksjon på øverste nivå.
+该文档包含所有可用来帮助您开始使用PhysIKA和开发自己的应用程序的信息。
 
 * Oppsummer
 * Seksjonen din

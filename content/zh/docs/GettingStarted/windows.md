@@ -1,0 +1,14 @@
+---
+title: "Installation"
+linkTitle: "Windows"
+date: 2017-01-05
+description: >
+  了解并掌握如何在Windows 10上安装并运行PhysIKA。
+---
+
+{{% pageinfo %}}
+Windows 10 上安装PhysIKA
+{{% /pageinfo %}}
+
+
+待完善
