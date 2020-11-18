@@ -1,6 +1,6 @@
 ---
-title: "Windows用户安装"
-linkTitle: "Windows用户安装"
+title: "Installation"
+linkTitle: "Windows"
 date: 2017-01-05
 description: >
   A tutorial on how to run PhysIKA on windows 10.
