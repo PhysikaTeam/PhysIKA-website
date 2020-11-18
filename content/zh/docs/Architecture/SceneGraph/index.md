@@ -8,7 +8,7 @@ description: >
 ---
 
 ## 场景的结构
-![SceneFlow](.//SceneGraph//sceneflow.jpg)
+![SceneFlow](./SceneGraph/sceneflow.jpg)
 
 
 ## Scene graph traversal 场景图遍历

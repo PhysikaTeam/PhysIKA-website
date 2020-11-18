@@ -15,7 +15,7 @@ enableGitInfo = true
 
 # Language settings
 contentDir = "content/en"
-defaultContentLanguage = "zh"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
