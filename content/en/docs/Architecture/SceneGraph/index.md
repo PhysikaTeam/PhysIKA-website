@@ -8,7 +8,7 @@ description: >
 ---
 
 ## Structure of a scene
-![SceneFlow](sceneflow.jpg)
+![SceneFlow](./scenegraph/sceneflow.jpg)
 
 
 ## Scene graph traversal

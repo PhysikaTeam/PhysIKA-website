@@ -95,7 +95,9 @@ Then, an instance of StaticMeshBoundary can correctly created by passing the cla
 ```
 
 In addition, an instance of the reflected class can also be create from the PhysIKA Studio.
-![Example](createInstanceFromQt.jpg)
+
+
+![Example](./nodes/createInstanceFromQt.jpg)
 
 ### Node Ports
 

@@ -1,5 +1,5 @@
 ---
-title: "Linux"
+title: "Installation"
 linkTitle: "Linux"
 date: 2017-01-05
 description: >
