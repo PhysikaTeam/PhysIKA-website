@@ -1,5 +1,5 @@
 ---
-title: "Installation"
+title: "Windows"
 linkTitle: "Windows"
 date: 2017-01-05
 description: >
