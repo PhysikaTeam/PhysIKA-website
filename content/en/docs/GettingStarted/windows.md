@@ -15,16 +15,6 @@ This page tells you how to build physika, including installation and basic confi
 1. Download the latest version of cmake executable file(Click [Here](https://cmake.org/download/) to download cmake executable file).
 2. Double click to install directly.
 
-### Install Cuda 11.0
-
-1. Download cuda11.0(Click [Here](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal) to download cuda11.0 executable file)![](cuda11.0.PNG)
-
-2. Double click to install directly.
-
-3. Open the command line and enter the nvcc -V command. The following message appears, indicating that the installation is successful.
-
-   ![](cuda.PNG)
-
 ### Install **Visual Studio 2017**
 
 1. Download Visual Studio 2017(Click [Here](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) to download visual studio 2017 executable file)
@@ -34,6 +24,16 @@ This page tells you how to build physika, including installation and basic confi
 3. Choose what you need to install.
 
    ![](vs.PNG)
+
+### Install Cuda 11.0
+
+1. Download cuda11.0(Click [Here](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal) to download cuda11.0 executable file)![](cuda11.0.PNG)
+
+2. Double click to install directly.
+
+3. Open the command line and enter the nvcc -V command. The following message appears, indicating that the installation is successful.
+
+   ![](cuda.PNG)
 
 ### Install PhysiKA
 
