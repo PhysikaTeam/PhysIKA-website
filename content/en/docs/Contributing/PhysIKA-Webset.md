@@ -1,8 +1,8 @@
 ---
-title: "How to build physika website"
-linkTitle: "Website construction"
+title: "How to contribute to PhysIKA documentation"
+linkTitle: "Docs"
 description: >
-  This page tells you how to build physika website, including installation and basic configuration.
+  This page tells you how to build PhysIKA website, including installation and basic configuration.
 ---
 
 
